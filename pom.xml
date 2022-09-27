@@ -11,6 +11,8 @@
     <modules>
         <module>banks-java</module>
         <module>banks-java</module>
+        <module>kotiki-java</module>
+        <module>kotiki-java</module>
     </modules>
 
     <properties>
